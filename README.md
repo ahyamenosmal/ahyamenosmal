@@ -1,7 +1,7 @@
 <!-- Banner opcional: puedes crear una imagen en Canva y subirla aquí -->
 <!-- ![Banner](./banner.png) -->
 
-# 👋 ¡Hola! Soy Evelyn Flores Caamaño
+# 👋 ¡Hola! Soy Evelyn Flores
 
 **Desarrolladora Full Stack JavaScript · Diseñadora UX/UI · Comunicadora Audiovisual**  
 📍 Santiago, Chile
