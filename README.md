@@ -3,7 +3,7 @@
 
 # 👋 ¡Hola! Soy Evelyn Flores Caamaño
 
-**Desarrolladora Full Stack JavaScript · UX/UI Designer · Comunicadora Audiovisual**  
+**Desarrolladora Full Stack JavaScript · Diseñadora UX/UI · Comunicadora Audiovisual**  
 📍 Santiago, Chile
 
 ---
